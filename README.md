@@ -1,6 +1,6 @@
 ### Olá! Eu sou Eduardo Queiroz.
 
-- 🔭 Atualmente estou em busca de estágio para tornar-se um profissional melhor.
+- 🔭 Atualmente estou em busca de me tornar um profissional melhor.
 - 🌱 Estou estudando a categoria de full-stack developer.
 - 😄 Pronouns: ele/dele - he/his
 
