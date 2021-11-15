@@ -1,8 +1,19 @@
-### Olá! Eu sou Eduardo Queiroz.
+<div align="center"> 
+ 
+ <img align="right" alt="Queiroz-pic" height="260" style="border-radius:50px;" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761164efd11c5acca9fca3707e0f7d2cdf6b75f06f47&rid=giphy.gif&ct=g">
+</div>
 
-- 🔭 Atualmente estou em busca de me tornar um profissional melhor.
-- 🌱 Estou estudando a categoria de full-stack developer.
-- 😄 Pronouns: ele/dele - he/his
+  
+### Name: Eduardo B. Custodio Queiroz
+### NickName: Queiroz
+
+#### About me:
+
+- ⬆️ Level: 26 years
+- 🌟 Exp: 1 year of study
+- 🧙‍♂️ Class: Analysis and Systems Development
+- 🎯 Sub-Class: Full-Stack Developer
+
 
 <div align="center">
   <a href="https://github.com/Queiroz-Dv">
@@ -10,7 +21,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>
+ ### Skills
+<div align="center"><br>
   <img align="center" alt="Queiroz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Queiroz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Queiroz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,14 +30,13 @@
   <img align="center" alt="Queiroz-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Queiroz-VS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg">
   <img align="center" alt="Queiroz-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Queiroz-pic" height="260" style="border-radius:50px;" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761164efd11c5acca9fca3707e0f7d2cdf6b75f06f47&rid=giphy.gif&ct=g">
+  
   </div>
   
   
   
-  ##
- 
-<div> 
+  ## Contact me:
+<div align= "center"> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="www.linkedin.com/in/eduardoqueirozdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://literaturachaearte.blogspot.com/?fbclid=IwAR1XWgNbZRYQdGqUJNFVuuJFJf7af2CNuNHmMjUD92zNVU1QNodP4sztD4o" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
