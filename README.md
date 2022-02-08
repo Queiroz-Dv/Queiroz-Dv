@@ -9,10 +9,10 @@
 
 #### About me:
 
-- ⬆️ Level: 27
-- 🌟 Exp: 2 anos de estudos
-- 🧙‍♂️ Classe: Análise e Desenvolvimento de Sistemas
-- 🎯 Sub-Classe: Full-Stack .NET Developer
+- ⌛ Level: 27
+- 📝 Exp: 2 anos de estudos
+- 🎓 Área Acadêmica: Análise e Desenvolvimento de Sistemas | Letras Inglês - Português
+- 🎯 Função: Full-Stack .NET Developer | Desenhista Profissional | Professor
 - ❤️ Soft Skill: Empatia, Criatividade, Gestão/Organização do tempo, Resolução de problemas 
 
 
@@ -22,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
- ## ⚔ Explored technologies
+ ## Explored technologies 🥾
 <div align="center"><br>
   <img align="center" alt="Queiroz-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Queiroz-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +33,7 @@
   <img align="center" alt="Queiroz-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div>
   
- ### Studying Now
+ ### Studying Now 📜
  <div align="center"><br>
   <img align="center" alt="Queiroz-PHP" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
