@@ -1,10 +1,9 @@
-# Console.WriteLine("Hello, World!"); 👋
 <div align="center"> 
  
  <img align="right" alt="Queiroz-pic" height="260" style="border-radius:50px;" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761164efd11c5acca9fca3707e0f7d2cdf6b75f06f47&rid=giphy.gif&ct=g">
 </div>
 
-  
+# Console.WriteLine("Hello, World!"); 👋
 ### Nome: Eduardo Queiroz
 ### NickName: Queiroz
 
