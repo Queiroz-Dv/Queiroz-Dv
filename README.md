@@ -12,8 +12,8 @@
 - ⌛ Level: 27
 - 📝 Exp: 2 anos de estudos
 - 🎓 Área Acadêmica: Análise e Desenvolvimento de Sistemas | Letras Inglês - Português
-- 🎯 Função: Full-Stack .NET Developer | Desenhista Profissional | Professor
-- ❤️ Soft Skill: Empatia, Criatividade, Gestão/Organização do tempo, Resolução de problemas 
+- 🎯 Função: Full-Stack .NET Developer | Desenhista Profissional | Professor | Blogger
+- ❤️ Soft Skill: Empatia, Criatividade, Gestão/Organização do Tempo, Resolução de problemas, Comunicação 
 
 
 <div align="center">
