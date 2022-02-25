@@ -1,11 +1,11 @@
 <div align="center"> 
- 
- <img align="right" alt="Queiroz-pic" height="260" style="border-radius:50px;" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761164efd11c5acca9fca3707e0f7d2cdf6b75f06f47&rid=giphy.gif&ct=g">
+ <h1 align="center">Queiroz.Io <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a></h1>
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 </div>
 
-# Console.WriteLine("Hello, World!"); 👋
 ### Nome: Eduardo Queiroz
-### NickName: Queiroz
+### NickName: Queiroz.Io
 
 #### About me:
 
@@ -43,8 +43,8 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Queiroz-Angular" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Queiroz-Python" height="40" width="50"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Queiroz-NodeJs" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Queiroz-Bootstrap" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   </div>
