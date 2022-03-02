@@ -4,6 +4,17 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 </div>
 
+<details>
+  <summary><strong>Github Stats</strong></summary>
+  <div>
+<a href="https://github.com/Queiroz-Dv/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&theme=tokyonight&hide_border=true" height="200"></a>
+<a href="https://github.com/Queiroz-Dv/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Queiroz-Dv&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Queiroz-Dv's github stats" height="200" widht="400"></a>
+    <a href="https://github.com/Queiroz-Dv/github-trends"><img src="https://api.githubtrends.io/user/svg/Queiroz-Dv/repos?time_range=one_year&theme=tokyonights" width="300"></a>
+  </div>
+</details>
+<details>
+  <summary><strong>Recent Activity</strong></summary>
+
 ### Nome: Eduardo Queiroz
 ### NickName: Queiroz.Io
 
@@ -21,7 +32,8 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Queiroz-Dv&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </div>
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
  ## Explored technologies 🥾
 <div align="center"><br>
   <img align="center" alt="Queiroz-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
