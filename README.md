@@ -1,8 +1,10 @@
 <div align="center"> 
- <h1 align="center">Queiroz.Io <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a></h1>
+ <h1 align="center">Queiroz.Io <a href="#"></h1>
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-</div>
+# Hi, I'm Queiroz 👋
+
+<img src="https://github.com/Queiroz-Dv/Queiroz-Dv/blob/master/github-metrics.svg" alt="Metrics">
+
 
 ### Nome: Eduardo Queiroz
 ### NickName: Queiroz.Io
