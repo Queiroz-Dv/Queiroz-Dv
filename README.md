@@ -2,7 +2,6 @@
   <!--START_SECTION:waka-->
   
   # Hi, I'm Queiroz 👋
-  ![Metrics](/github-metrics.svg)
    <a href="https://github.com/Queiroz-Dv">
     <img src="/github-metrics.svg" alt="Metrics">
   <a/>
