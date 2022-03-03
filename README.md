@@ -1,12 +1,11 @@
 <div align="center"> 
   <!--START_SECTION:waka-->
+  
   # Hi, I'm Queiroz 👋
   <img src="https://github.com/Queiroz-Dv/Queiroz-Dv/blob/master/github-metrics.svg" alt="Metrics">
   <!--END_SECTION:waka-->
 
-
-
-
+</div>
 
 ### Nome: Eduardo Queiroz
 ### NickName: Queiroz.Io
