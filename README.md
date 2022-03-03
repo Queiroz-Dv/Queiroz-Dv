@@ -1,6 +1,4 @@
 <div align="center"> 
- <h1 align="center">Queiroz.Io <a href="#"></h1>
-
   <!--START_SECTION:waka-->
   # Hi, I'm Queiroz 👋
   <img src="https://github.com/Queiroz-Dv/Queiroz-Dv/blob/master/github-metrics.svg" alt="Metrics">
