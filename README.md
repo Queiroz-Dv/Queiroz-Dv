@@ -1,9 +1,13 @@
 <div align="center"> 
  <h1 align="center">Queiroz.Io <a href="#"></h1>
 
-# Hi, I'm Queiroz 👋
+  <!--START_SECTION:waka-->
+  # Hi, I'm Queiroz 👋
+  <img src="https://github.com/Queiroz-Dv/Queiroz-Dv/blob/master/github-metrics.svg" alt="Metrics">
+  <!--END_SECTION:waka-->
 
-<img src="https://github.com/Queiroz-Dv/Queiroz-Dv/blob/master/github-metrics.svg" alt="Metrics">
+
+
 
 
 ### Nome: Eduardo Queiroz
@@ -59,9 +63,6 @@
   <a href="mailto:teacher.eduardo.queiroz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 <p align="center"> 
 
