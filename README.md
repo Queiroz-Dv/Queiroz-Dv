@@ -3,7 +3,9 @@
   
   # Hi, I'm Queiroz 👋
   ![Metrics](/github-metrics.svg)
-  ![Metrics](/metrics.plugin.languages.indepth.svg)
+   <a href="https://github.com/Queiroz-Dv">
+    <img src="/github-metrics.svg" alt="Metrics">
+  <a/>
   <!--END_SECTION:waka-->
 
 </div>
