@@ -2,7 +2,7 @@
   <!--START_SECTION:waka-->
   
   # Hi, I'm Queiroz 👋
-  <img src="https://github.com/Queiroz-Dv/Queiroz-Dv/blob/master/github-metrics.svg" alt="Metrics">
+  ![Metrics](/github-metrics.svg)
   <!--END_SECTION:waka-->
 
 </div>
