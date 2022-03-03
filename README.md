@@ -58,7 +58,7 @@
   </div>
 
 <!--START_SECTION:waka-->
-![Metrics](/github-metrics.svg)
+
 <!--END_SECTION:waka-->
 
 <p align="center"> 
