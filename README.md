@@ -1,7 +1,7 @@
 <div align="center"> 
   <!--START_SECTION:waka-->
   
-  # Console.WriteLine("Queiroz.Dv) 👋
+  # Console.WriteLine("Queiroz.Dv") 👋
    <a href="https://github.com/Queiroz-Dv">
     <img src="/github-metrics.svg" alt="Metrics">
   <a/>
@@ -10,7 +10,7 @@
 </div>
 
 ### Nome: Eduardo Queiroz
-### NickName: Queiroz.Io
+### NickName: Queiroz
 
 #### About me:
 
