@@ -22,23 +22,28 @@
 
 
 <div align="center">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Queiroz-Dv&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+    <img height="40%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Queiroz-Dv&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Queiroz-Dv&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </div>
 
-   ## Explored technologies 🥾
+   ### Linguagens Estudadas
 <div align="center"><br>
-  <img align="center" alt="Queiroz-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Queiroz-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Queiroz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Queiroz-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Queiroz-SQLServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Queiroz-VS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg">
-  <img align="center" alt="Queiroz-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Queiroz-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> &nbsp;
+  <img align="center" alt="Queiroz-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;
+  <img align="center" alt="Queiroz-CSS" height="40" width="50" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp;
+  <img align="center" alt="Queiroz-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
+  <img align="center" alt="Queiroz-NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   </div>
   
- ### Studying Now 📜
+  ### Banco de dados Estudados
+  <div align="center"><br>
+    <img align="center" alt="Queiroz-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Queiroz-SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+    
+  </div>
+  
+ ### O que estou estudando:
  <div align="center"><br>
   <img align="center" alt="Queiroz-PHP" height="40" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
