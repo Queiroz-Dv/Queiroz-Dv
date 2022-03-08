@@ -12,9 +12,9 @@
 ### Nome: Eduardo Queiroz
 ### NickName: Queiroz
 
-#### About me:
+#### Sobre:
 
-- ⌛ Level: 27
+- ⌛ Idade: 27
 - 📝 Exp: 2 anos de estudos
 - 🎓 Área Acadêmica: Análise e Desenvolvimento de Sistemas | Letras Inglês - Português
 - 🎯 Função: Full-Stack .NET Developer | Desenhista Profissional | Professor | Blogger
