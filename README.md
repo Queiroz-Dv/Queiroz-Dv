@@ -9,21 +9,22 @@
 
 </div>
 
+<div align="center">
+  
 ### Nome: Eduardo Queiroz
 ### NickName: Queiroz
-
-#### Sobre:
-
+  
 - ⌛ Idade: 27
 - 📝 Exp: 2 anos de estudos
 - 🎓 Área Acadêmica: Análise e Desenvolvimento de Sistemas | Letras Inglês - Português
 - 🎯 Função: Full-Stack .NET Developer | Desenhista Profissional | Professor | Blogger
-- ❤️ Soft Skill: Empatia, Criatividade, Gestão/Organização do Tempo, Resolução de problemas, Comunicação 
-
+- ❤️ Soft Skill: Empatia, Criatividade, Gestão/Organização do Tempo, Resolução de Problemas, Comunicação 
+  </div>
 
 <div align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Queiroz-Dv&theme=tokyonight&hide_border=true&background=FFFFFF00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Queiroz-Dv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=10">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Queiroz-Dv&theme=dark&hide_border=true&background=FFFFFF00">
 </div>
 
    ### Linguagens Estudadas
@@ -57,7 +58,7 @@
   <img align="center" alt="Queiroz-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </div>
   
-  ## Contact me:
+  ### Contato:
 <div align= "center"> 
   <a href="https://instagram.com/queiroz_diario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
  <a href="www.linkedin.com/in/eduardoqueirozdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
@@ -66,8 +67,8 @@
 
 <p align="center"> 
 
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
+ #### Detetive-Dv :detective: <br>
+ <p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Queiroz-Dv/count.svg" />
  </p>
 </p>
