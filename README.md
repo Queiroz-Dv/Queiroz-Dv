@@ -67,16 +67,6 @@ NickName: Queiroz
         </div>
    </details>
   
-  <details>
-    <summary><h4>Projetos Realizados</h4></summary>
-  
-- [Projeto de Calculadora](https://github.com/Queiroz-Dv/ProjectCalculator) 
-- [Projeto de Cronômetro](https://github.com/Queiroz-Dv/ProjectStopWatch_CSharp)
-- [Projeto de Editor de Texto](https://github.com/Queiroz-Dv/TextEditor)
-- [Projeto de Editor HTML](https://github.com/Queiroz-Dv/EditorHTML)
-- [Programação Orientada a Objetos-Eng](https://github.com/Queiroz-Dv/OakAcademyStudy)
-- [Programação Orientada a Objetos-Pt-BR](https://github.com/Queiroz-Dv/ProjectPooSharp)
-  
 </details>
   
   <h3>Contato:</h3>
