@@ -18,7 +18,7 @@ NickName: Queiroz
   
 <div align="center">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Queiroz-Dv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=10">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=12">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Queiroz-Dv&theme=dark&hide_border=true&background=FFFFFF00">  
 </div>
 
