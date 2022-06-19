@@ -1,15 +1,7 @@
 <div align="center"> 
   
   # Console.WriteLine("Queiroz.Dv") 👋
-  <!--START_SECTION:waka-->
-  
-   <a href="https://github.com/Queiroz-Dv">
-    <img src="/github-metrics.svg" alt="Metrics">
-  <a/>
-  <!--END_SECTION:waka-->    
 </div>
-
-
 <details>
   <summary> <h3>Sobre</h3> </summary>
     <div>
