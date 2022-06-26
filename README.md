@@ -15,7 +15,6 @@
     💻 Linguagens:
   <img align="center" alt="Queiroz-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
   <img align="center" alt="Queiroz-NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> &nbsp;
-  <img align="center" alt="Queiroz-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
 </p>
 
 <p align="left">
