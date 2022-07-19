@@ -6,7 +6,7 @@
 👨🏾‍💻 Olá! Sou <i>Eduardo Queiroz</i>, tipicamente conhecido como "Queiroz".<br> 
  Estudo desenvolvimento de softwares web, mobile e desktop com foco em gestão empresarial e comercial.&nbsp;<br><br>
  Aréa de atuação: <strong>Analista de Sistemas Full Stack - Direcionado a aplicações comerciais e empresarias.</strong><br><br> 
-  Atuo como <strong>Desenvolvedor Júnior na MXM Sistemas</strong> atualmente. Além disso, estou estudando ASP.NET Core, Angular, Delphi e outras tecnologias. Cursando
+  Atuo como <strong>Desenvolvedor de Softwares na MXM Sistemas</strong> atualmente. Além disso, estou estudando ASP.NET Core, Angular, Delphi e outras tecnologias. Cursando
   Análise e Desenvolvimento de Sistemas na FACAP.<br>&nbsp;
   
 </p>
