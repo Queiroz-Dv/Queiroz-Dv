@@ -4,8 +4,6 @@
   Estudando desenvolvimento de games
   Cursando
   Análise e Desenvolvimento de Sistemas na FACAP.<br>&nbsp;
-  Estudando desenvolvimento de games<br>
-  Cursando Análise e Desenvolvimento de Sistemas na FACAP.<br>&nbsp;
 
 </p>
 
