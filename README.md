@@ -1,5 +1,5 @@
  Estudo desenvolvimento de softwares web, mobile e desktop com foco em gestão empresarial e comercial.&nbsp;<br><br>
- Aréa de atuação: <strong>Programador e Desenvolvedor Full Stack - Direcionado a aplicações comerciais e empresarias.</strong><br><br> 
+ Área de atuação: <strong>Programador e Desenvolvedor Full Stack - Direcionado a aplicações comerciais e empresarias.</strong><br><br> 
   Atuo como <strong>Desenvolvedor de Softwares na MXM Sistemas</strong> atualmente. Além disso, estou estudando ASP.NET Core, Angular, Delphi e outras tecnologias.
   Estudando desenvolvimento de games
   Cursando
