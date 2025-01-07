@@ -6,9 +6,7 @@
 👨🏾‍💻 Olá! Sou <i>Eduardo Queiroz</i>, tipicamente conhecido como "Queiroz".<br> 
  Estudo desenvolvimento de softwares web, mobile e desktop com foco em gestão empresarial e comercial.&nbsp;<br><br>
  Objetivo de atuação: <strong>Analista de Sistemas Full Stack - Direcionado a aplicações comerciais e empresarias.</strong><br><br> 
-  Atuo como <strong>Desenvolvedor Júnior</strong> em uma empresa nacional onde realizo manutenções periódicas nos módulos governamentais como Senac, Sesc e Serpro. 
- <br >Além disso, estou estudando ASP.NET Core, Angular, Typescript, Delphi e outras tecnologias para evolução pessoal. <br>&nbsp;
-
+  Atuo como <strong>Desenvolvedor Full Stack<strong></strong> em uma empresa situada no Canadá onde realizo manutenções periódicas nos módulos governamentais como Senac, Sesc e Serpro.
 </p>
 
 <p align="left">
