@@ -9,29 +9,32 @@
   Atuo como <strong>Desenvolvedor Full Stack</strong> na MXM Sistemas onde realizo manutenções periódicas nos módulos governamentais como Senac, Sesc e Serpro. 
 </p>
 
-<p>
+<p align="left">
  📚 Além disso produzo e gerencio conteúdos relacionados a rotinas de estudo, produtividade e tecnologia nas redes sociais.
 </p>
+<br>
 
-<p align="left">
-    💻 Linguagens:
-  <img align="center" alt="Queiroz-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
-  <img align="center" alt="Queiroz-NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> &nbsp;
-  <img align="center" alt="Queiroz-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+<h2 align="center">💻 Linguagens:</h2>
+<p align="center">   
+     <img align="center" alt="Queiroz-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
+     <img align="center" alt="Queiroz-NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> &nbsp;
+     <img align="center" alt="Queiroz-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" /> 
 </p>
 
+<br>
 
-<p align="left">
-    💾 Banco de Dados: 
+<h2 align="center">💾 Banco de Dados:</h2>
+<p align="center">   
   <img align="center" alt="Queiroz-Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp;
   <img align="center" alt="Queiroz-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
   <img align="center" alt="Queiroz-SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">&nbsp;
   <img align="center" alt="Queiroz-SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
+<br>
 
-<p align="left">
-   Stack de estudo atual: 
+<h2 align="center">📚Linha de estudo atual:</h2> 
+<p align="center">   
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
