@@ -4,9 +4,9 @@
 
 <p align="left"> 
 👨🏾‍💻 Olá! Sou <i>Eduardo Queiroz</i>, tipicamente conhecido como "Queiroz".<br> 
- Estudo desenvolvimento de softwares web, mobile e desktop com foco em gestão empresarial e comercial.&nbsp;<br><br>
+ Estudo desenvolvimento de software com foco em gestão empresarial e comercial.&nbsp;<br><br>
  Objetivo de atuação: <strong>Analista de Sistemas Full Stack - Direcionado a aplicações comerciais e empresarias.</strong><br><br> 
-  Atuo como <strong>Desenvolvedor Full Stack</strong> em uma empresa situada no Canadá onde realizo manutenções periódicas nos módulos governamentais como Senac, Sesc e Serpro.
+  Atuo como <strong>Desenvolvedor Full Stack</strong> na MXM Sistemas onde realizo manutenções periódicas nos módulos governamentais como Senac, Sesc e Serpro.
 </p>
 
 <p align="left">
@@ -21,7 +21,7 @@
     💾 Banco de Dados: 
   <img align="center" alt="Queiroz-Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp;
   <img align="center" alt="Queiroz-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-  <img align="center" alt="Queiroz-SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-       server&logoColor=white">&nbsp;
+  <img align="center" alt="Queiroz-SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">&nbsp;
   <img align="center" alt="Queiroz-SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
