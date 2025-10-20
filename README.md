@@ -6,7 +6,7 @@
 </div>
 
 <p align="left">
-  Sou um Desenvolvedor Full Stack dedicado a criar software, compartilhar minhas rotinas e estudos.
+  Sou um Desenvolvedor Full Stack dedicado a criar software voltados a gestão comercial. Além disso, gosto de compartilhar minhas rotinas e estudos.
 </p>
 
 <p align="left">
