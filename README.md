@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/Queiroz-Dv/Queiroz-Dv/blob/Projects/QRZ%20-%20%20Capa%20-%20Github.png" alt="Banner do Perfil Queiroz-Dv" />
+</div>
+<br>
+<div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Queiroz-Dv">
 
   <h1>Olá, sou Eduardo Queiroz 👋</h1>
@@ -6,7 +10,7 @@
 </div>
 
 <p align="left">
-  Sou um Desenvolvedor Full Stack dedicado a criar software voltados a gestão comercial. Além disso, gosto de compartilhar minhas rotinas e estudos.
+  Sou Desenvolvedor Full Stack com mais de 3 anos de experiência, dedicado a criar software eficientes e inovadores para gestão comercial. Gosto de compartilhar minhas rotinas e estudos sobre tecnologia.
 </p>
 
 <p align="left">
@@ -19,34 +23,50 @@
 
 <hr>
 
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <div align="center">
-  <h4>Linguagens & Frameworks</h4>
+
+  <h4>Backend</h4>
   <p>
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+    <br/>Clean Architecture, Domain-Driven Design (DDD), Web API RESTful
+  </p>
+
+  <h4>Frontend</h4>
+  <p>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <br/>Razor
   </p>
 
   <h4>Banco de Dados</h4>
   <p>
-    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+    <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </p>
 
-  <h4>Estudando Atualmente</h4>
+  <h4>Cloud & DevOps</h4>
   <p>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-  </p>
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    </p>
+
+  <h4>Testes</h4>
+  <p>
+     xUnit, NUnit
+     </p>
 </div>
 
 <hr>
