@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Queiroz-Dv/Queiroz-Dv/blob/Projects/QRZ%20-%20%20Capa%20-%20Github.png" alt="Banner do Perfil Queiroz-Dv" />
-</div>
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Queiroz-Dv">
