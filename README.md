@@ -11,11 +11,7 @@
 </p>
 
 <p align="left">
-  Na <a href="https://www.mxm.com.br/" target="_blank">MXM Sistemas</a>, desenvolvo e mantenho módulos governamentais para clientes como Senac, Sesc e Serpro. Meu objetivo é me tornar um Arquiteto de Software, aplicando meu conhecimento técnico para resolver problemas de negócio complexos.
-</p>
-
-<p align="left">
-  Fora do código, compartilho aprendizados sobre estudos, produtividade e tecnologia nas redes sociais.
+ Meu objetivo é me tornar um Arquiteto de Software, aplicando meu conhecimento técnico para resolver problemas de negócio complexos.
 </p>
 
 <hr>
