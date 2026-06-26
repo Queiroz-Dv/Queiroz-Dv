@@ -7,7 +7,7 @@
 </div>
 
 <p align="left">
-  Sou Desenvolvedor Full Stack com mais de 3 anos de experiência, dedicado a criar software eficientes e inovadores para gestão comercial. Gosto de compartilhar minhas rotinas e estudos sobre tecnologia.
+  Sou Desenvolvedor Full Stack com mais de 4 anos de experiência, dedicado a criar software eficientes e inovadores para gestão comercial. Gosto de compartilhar minhas rotinas e estudos sobre tecnologia.
 </p>
 
 <p align="left">
