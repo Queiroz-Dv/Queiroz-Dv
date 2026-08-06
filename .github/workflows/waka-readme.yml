@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-readme-updates
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     name: Atualizar atividade de desenvolvimento

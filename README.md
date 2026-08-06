@@ -79,10 +79,14 @@ Meu objetivo é crescer como **Arquiteto de Software**, aprofundando decisões d
 ## Métricas do GitHub
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Métricas do GitHub de Eduardo Queiroz" width="100%" />
+  <img src="./github-metrics.svg" alt="Métricas do GitHub de Eduardo Queiroz" width="85%" />
 </div>
 
 ## Atividade de desenvolvimento
+
+<!--START_SECTION:waka-->
+_As métricas aparecerão aqui após a execução do workflow._
+<!--END_SECTION:waka-->
 
 ## Além do código
 
