@@ -1,83 +1,100 @@
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Queiroz-Dv">
-
-  <h1>Olá, sou Eduardo Queiroz 👋</h1>
-  <p>Mas pode me chamar de <strong>Queiroz</strong>.</p>
-</div>
-
-<p align="left">
-  Sou Desenvolvedor Full Stack com mais de 4 anos de experiência, dedicado a criar software eficientes e inovadores para gestão comercial. Gosto de compartilhar minhas rotinas e estudos sobre tecnologia.
-</p>
-
-<p align="left">
- Meu objetivo é me tornar um Arquiteto de Software, aplicando meu conhecimento técnico para resolver problemas de negócio complexos.
-</p>
-
-<hr>
-
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
-
 <div align="center">
 
-  <h4>Backend</h4>
-  <p>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-    <br/>Clean Architecture, Domain-Driven Design (DDD), Web API RESTful
-  </p>
+# Olá, eu sou Eduardo Queiroz 👋
 
-  <h4>Frontend</h4>
-  <p>
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <br/>Razor
-  </p>
+### Desenvolvedor Full Stack · Analista de Sistemas
 
-  <h4>Banco de Dados</h4>
-  <p>
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-    <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  </p>
+Construo soluções para gestão comercial e empresarial, com foco em código sustentável, arquitetura e problemas reais de negócio.
 
-  <h4>Cloud & DevOps</h4>
-  <p>
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoqueirozdev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Queiroz--Dv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Queiroz-Dv)
+[![Atron Platform](https://img.shields.io/badge/Projeto-Atron_Platform-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://atron-platform-front.onrender.com/login)
+[![Editora Ortz](https://img.shields.io/badge/Projeto-Editora_Ortz-EA4335?style=for-the-badge&logo=vercel&logoColor=white)](https://editora-ortz.vercel.app/)
 
-  <h4>Testes</h4>
-  <p>
-     xUnit, NUnit
-     </p>
 </div>
 
-<hr>
+## Sobre mim
 
-<h2 align="center">🔗 Conecte-se Comigo</h2>
+Sou conhecido como **Queiroz** e trabalho há mais de 4 anos com desenvolvimento de software. Gosto de transformar necessidades de negócio em aplicações simples de usar e sustentáveis de evoluir.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardoqueirozdev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
+Meu objetivo é crescer como **Arquiteto de Software**, aprofundando decisões de arquitetura, qualidade técnica e desenvolvimento de produtos que entregam valor de verdade.
 
-<hr>
+## Tecnologias e ferramentas
 
-<h2 align="center">📊 Minhas Estatísticas</h2>
+### Backend
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Queiroz-Dv&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz-Dv&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,css,php,js" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Queiroz-Dv&theme=dark&hide_border=true&background=FFFFFF00" />
-</p>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Razor](https://img.shields.io/badge/Razor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+
+### Dados, cloud e DevOps
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+
+### Arquitetura e qualidade
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=flat-square)
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-0A66C2?style=flat-square)
+![REST APIs](https://img.shields.io/badge/APIs_REST-009688?style=flat-square&logo=fastapi&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-5E2B97?style=flat-square)
+![NUnit](https://img.shields.io/badge/NUnit-22B573?style=flat-square&logo=nunit&logoColor=white)
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Atron Platform</h3>
+      <p>Aplicação publicada com foco em gestão comercial e empresarial.</p>
+      <a href="https://atron-platform-front.onrender.com/login"><strong>Acessar aplicação →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Editora Ortz</h3>
+      <p>Projeto web publicado e disponível para acesso.</p>
+      <a href="https://editora-ortz.vercel.app/"><strong>Acessar aplicação →</strong></a>
+    </td>
+  </tr>
+</table>
+
+## Métricas do GitHub
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="Métricas do GitHub de Eduardo Queiroz" width="100%" />
+</div>
+
+## Atividade de desenvolvimento
+
+<!--START_SECTION:waka-->
+_As métricas detalhadas aparecerão aqui após a primeira execução do workflow._
+<!--END_SECTION:waka-->
+
+## Além do código
+
+<div align="center">
+
+![Desenhar](https://img.shields.io/badge/🎨_Desenhar-criatividade-FF7A59?style=for-the-badge)
+![Escrever](https://img.shields.io/badge/✍️_Escrever-ideias-6F42C1?style=for-the-badge)
+![Games](https://img.shields.io/badge/🎮_Games-diversão-2EA44F?style=for-the-badge)
+![Música](https://img.shields.io/badge/🎧_Música-inspiração-1DB954?style=for-the-badge)
+
+</div>
