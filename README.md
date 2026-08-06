@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack · Analista de Sistemas
 
-Construo soluções para gestão comercial e empresarial, com foco em código sustentável, arquitetura e problemas reais de negócio.
+Codando acima do limite. Elaboro algumas coisas e vejo no que vai dar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoqueirozdev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Queiroz--Dv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Queiroz-Dv)
@@ -15,11 +15,11 @@ Construo soluções para gestão comercial e empresarial, com foco em código su
 
 ## Sobre mim
 
-Sou conhecido como **Queiroz** e trabalho há mais de 4 anos com desenvolvimento de software. Gosto de transformar necessidades de negócio em aplicações simples de usar e sustentáveis de evoluir.
+Sou conhecido como **Queiroz** e trabalho há mais de 4 anos com desenvolvimento de software.
 
 Meu objetivo é crescer como **Arquiteto de Software**, aprofundando decisões de arquitetura, qualidade técnica e desenvolvimento de produtos que entregam valor de verdade.
 
-## Tecnologias e ferramentas
+## Minha Stack
 
 ### Backend
 
