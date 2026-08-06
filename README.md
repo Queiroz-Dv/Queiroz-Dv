@@ -84,10 +84,6 @@ Meu objetivo é crescer como **Arquiteto de Software**, aprofundando decisões d
 
 ## Atividade de desenvolvimento
 
-<!--START_SECTION:waka-->
-_As métricas detalhadas aparecerão aqui após a primeira execução do workflow._
-<!--END_SECTION:waka-->
-
 ## Além do código
 
 <div align="center">
