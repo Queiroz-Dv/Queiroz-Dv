@@ -85,15 +85,15 @@ Meu objetivo é crescer como **Arquiteto de Software**, aprofundando decisões d
 ## Atividade de desenvolvimento
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2055%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2013%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2058%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%201%20min-blue?style=flat-square)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-66-blue?style=flat-square)
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 345.5 kB Usado no armazenamento do GitHub 
+> 📦 345.6 kB Usado no armazenamento do GitHub 
  > 
 > 🏆 151 Contribuições no ano de 2026
  > 
@@ -128,42 +128,42 @@ Domingo                  781 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Linguagens de programação: 
-C#                       3 hrs 53 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.63 % 
-Markdown                 2 hrs 28 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.99 % 
-Other                    1 hr 6 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.91 % 
-Docker                   22 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.42 % 
-YAML                     17 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.44 % 
+C#                       5 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.66 % 
+Other                    3 hrs 44 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.98 % 
+Markdown                 2 hrs 28 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.83 % 
+Docker                   22 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.02 % 
+YAML                     17 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.36 % 
 
 🔥 Editores: 
-VS Code                  5 hrs 27 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.96 % 
-Visual Studio            1 hr 58 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.14 % 
-Discord                  1 hr 6 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.91 % 
+VS Code                  5 hrs 29 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.11 % 
+Discord                  3 hrs 44 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.98 % 
+Visual Studio            3 hrs 13 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.91 % 
 
 💻 Sistema operacional: 
-Windows                  8 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  12 hrs 28 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 26 mins (63.83%)
+⏱ AI Coding Time: 5 hrs 29 mins (44.05%)
 
-✍️ 3,671 lines written by AI, 130 lines written by hand (96.58% AI-written)
+✍️ 3,671 lines written by AI, 194 lines written by hand (94.98% AI-written)
 
-🔤 85,958,573 Input Tokens, 355,438 Output Tokens
+🔤 86,020,587 Input Tokens, 358,027 Output Tokens
 
-💵 $433.32 Estimated AI Cost This Week
+💵 $433.77 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 50 AI Prompts
+🧠 10 AI Sessions, 53 AI Prompts
 
 GPT                      3,879 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Vscode-Wakatime          0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.58% of written lines came from AI
-📝 Concise Prompter — average 381 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.44% of changed lines were hand-edited
+🤖 AI-Driven — 94.98% of written lines came from AI
+📝 Concise Prompter — average 386 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 6.51% of changed lines were hand-edited
 ```
 
 **Eu geralmente programo em C#** 
@@ -179,7 +179,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 08/08/2026 04:23:16 UTC
+ Last Updated on 09/08/2026 04:37:59 UTC
 <!--END_SECTION:waka-->
 
 ## Além do código
