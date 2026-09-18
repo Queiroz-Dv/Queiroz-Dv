@@ -72,7 +72,7 @@ Atualmente, dedico parte do meu tempo ao desenvolvimento full stack do Atron Pla
 ## GitHub em números
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Métricas do GitHub de Eduardo Queiroz" width="85%" />
+  <img src="./github-metrics.svg" alt="Métricas do GitHub de Eduardo Queiroz" width="50%" />
 </div>
 
 ---
